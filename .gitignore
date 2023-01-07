@@ -2,3 +2,5 @@ images
 .ipynb_checkpoints
 *.csv
 *.pb
+train.record
+test.record
