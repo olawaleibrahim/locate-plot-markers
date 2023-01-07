@@ -4,3 +4,4 @@ images
 *.pb
 train.record
 test.record
+pretrained-models/
