@@ -5,3 +5,4 @@ images
 train.record
 test.record
 pretrained-models/
+models/
